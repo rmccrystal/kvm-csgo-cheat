@@ -160,6 +160,7 @@ name = "kvm-csgo-cheat"
 version = "0.1.0"
 dependencies = [
  "vmread",
+ "vmread-sys",
 ]
 
 [[package]]

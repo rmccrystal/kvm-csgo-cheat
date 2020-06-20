@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 vmread = "0.1.5"
+vmread-sys = "0.1.5"
